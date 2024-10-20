@@ -5,10 +5,7 @@ Vision Learn is a project aimed at assisting visually impaired students with the
 ## Table of Contents
      - [Features](#features)
      - [Technologies Used](#technologies-used)
-     - [Installation](#installation)
-     - [Usage](#usage)
-     - [Contributing](#contributing)
-     - [License](#license)
+     
 
 ## Features
 
